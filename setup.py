@@ -2,7 +2,7 @@ import setuptools
 
 setuptools.setup(
     name="st-dataframe-component",
-    version="0.0.3",
+    version="0.0.5",
     author="MrYasuo",
     author_email="",
     description="",

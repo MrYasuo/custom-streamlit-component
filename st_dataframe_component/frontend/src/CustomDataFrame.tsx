@@ -6,6 +6,7 @@ import {
 } from "streamlit-component-lib";
 import { Table, TextInput, MantineProvider, Button } from "@mantine/core";
 import { CSVLink } from "react-csv";
+import React from "react";
 
 /**
  * We can use a Typescript interface to destructure the arguments from Python
